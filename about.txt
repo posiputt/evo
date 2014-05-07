@@ -1,0 +1,4 @@
+evo - some kind of rudimentary evolution simulator
+
+more like a sandbox to play in.
+written in C.
